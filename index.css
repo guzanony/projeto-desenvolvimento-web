@@ -1,0 +1,66 @@
+.container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  padding: 12px;
+  width: 300px;
+  background-color: #08517b;
+}
+
+.container .name {
+  color: #f6f6fb;
+  font-size: 38px;
+  margin-top: 2px;
+}
+
+.container .sub-name .subtitle {
+  margin-top: -21px;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.container .perfil {
+  color: #f6f6fb;
+  background-color: #053b5b;
+  padding-left: 16px;
+  margin-left: -12px;
+  margin-right: -12px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.container .telefone .telefone-name {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.container .telefone .number-telefoone {
+  color: white;
+  margin-top: -15px;
+  font-size: 16px;
+}
+
+.container .email .email-e {
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.container .email .name-email {
+  color: white;
+  margin-top: -15px;
+  font-size: 16px;
+}
+
+.container .habilidades {
+  color: #f6f6fb;
+  background-color: #053b5b;
+  padding-left: 16px;
+  margin-left: -12px;
+  margin-right: -12px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
