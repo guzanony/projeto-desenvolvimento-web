@@ -1,0 +1,44 @@
+.resumo {
+  margin-left: 333px;
+}
+
+.resumo .nome-resumo {
+  font-size: 18px;
+}
+
+.resumo .experiencia #linha {
+  width: 1129px;
+  border: 1px solid #08517b;
+  margin-top: -4px;
+}
+
+.resumo .experiencia {
+  h1 {
+    margin-top: 12px;
+    color: #053b5b;
+  }
+}
+
+.resumo .nomes-experiencias {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 817px;
+}
+
+.resumo .data-termino {
+  margin-top: -28px;
+}
+
+.resumo .data-termino {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 860px;
+}
+
+.resumo .listas {
+  margin-left: 100px;
+  margin-top: -32px;
+  font-size: 18px;
+}
