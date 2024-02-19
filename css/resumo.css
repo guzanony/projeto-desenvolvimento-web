@@ -27,18 +27,60 @@
 }
 
 .resumo .data-termino {
-  margin-top: -28px;
-}
-
-.resumo .data-termino {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-right: 860px;
+  margin-top: -28px;
 }
 
 .resumo .listas {
   margin-left: 100px;
   margin-top: -32px;
   font-size: 18px;
+}
+
+.resumo .nomes-experiencia {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 923px;
+}
+
+.resumo .data-termino-estagio {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 712px;
+  margin-top: -28px;
+}
+
+.resumo .nomes-experiencias-f1rst {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 924px;
+}
+
+.resumo .data-second-estagio {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 885px;
+  margin-top: -28px;
+}
+
+.resumo .formacao-academica {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 693px;
+}
+
+.resumo .data-formacao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 691px;
+  margin-top: -28px;
 }
